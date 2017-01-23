@@ -1,0 +1,31 @@
+
+.add{
+  height:100px;
+  width:1200px;
+  position: absolute;
+  margin-left: 275px;
+  margin-top: -260px;
+}
+.mail{
+  height:300px;
+  width:1200px;
+  position: absolute;
+  margin-left: 275px;
+  margin-top: 215px;
+}
+.comment{
+  height:600px;
+  width:1200px;
+  position: absolute;
+  margin-left: 275px;
+  margin-top: -215px;
+  border-width: 2px;
+  border-color: black;
+}
+.foo{
+  height:150px;
+  width:1800px;
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 400px;
+}
